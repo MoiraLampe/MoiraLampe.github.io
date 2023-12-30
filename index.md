@@ -17,16 +17,29 @@
 
 ---
 
-### Category Unsupervised
+### Renewable Energy Project
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Project 1 Title](http://example.com/)
 
 ---
 
 ### Computational Neuroscience
+
+[Decision-Theoretic Modeling of Binocular Rivalry](http://example.com/)
+<img src="images/comingsoon.jpeg?raw=true"/>
+
+[Master Thesis: Optimal Searching Strategies using Reinforcement Learning Methods](http://example.com/)
+<img src="images/comingsoon.jpeg?raw=true"/>
+
+[Visual Search Task](http://example.com/)
+<img src="images/comingsoon.jpeg?raw=true"/>
+
+[Stroop Task](http://example.com/)
+<img src="images/comingsoon.jpeg?raw=true"/>
+---
+
+### Computational Biology
+
+[Mathematical Modeling of Filamentous Fungi](http://www.dyco.fr/index.php/DREAMS)
 
 ---
