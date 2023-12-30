@@ -1,5 +1,6 @@
 title: Moira Lampe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+# logo: "/images/logo.png?raw=true" # your photo (or logo) here
+<img src="/images/logo.png?raw=true" alt="Your Logo" style="border-radius: 50%; width: 100px; height: 100px;">
 description: > # your text below (remove <br> elements if you don't need line breaks)
   AI & Computational Neuroscientist 
   <br><br>
