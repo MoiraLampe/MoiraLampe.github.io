@@ -5,15 +5,15 @@
 ### Medical AI
 
 [Medical Diagnosis](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/comingsoon.jpeg?raw=true"/>
 
 ---
 [Medical Prognosis](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/comingsoon.jpeg?raw=true"/>
 
 ---
 [Medical Treatment](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/comingsoon.jpeg?raw=true"/>
 
 ---
 
