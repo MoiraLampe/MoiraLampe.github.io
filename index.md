@@ -36,6 +36,8 @@
 
 [Stroop Task](http://example.com/)
 <img src="images/comingsoon.jpeg?raw=true"/>
+
+<!-- add stochastics projects, comp modeling, deep learning, exp economics projects -->
 ---
 
 ### Computational Biology
