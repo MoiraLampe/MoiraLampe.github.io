@@ -2,6 +2,7 @@
 
 A Journey through Computational Neuroscience, Biology, and Machine Learning.
 
+I’m a computational neuroscience enthusiast and am fascinated by the complexities of the human mind and how it shapes our decision-making. So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Science. 
 
 
 ## Portfolio

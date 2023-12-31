@@ -3,13 +3,12 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 # logo: <img src="/images/logo.png?raw=true" alt="Your Logo" style="border-radius: 50%; width; 100px; height 100px;">
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computational Neuroscientist & ML Engineer
+  Computational Neuroscientist & Machine Learning Engineer
   <br><br>
   About me
   <br><br>
-  Fascinated by the complexities of the human mind and how it shapes our decision-making.
+  
 
-  <br><br>
   <a href="www.linkedin.com/in/moira-lampe-303828282"></a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
