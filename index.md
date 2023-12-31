@@ -1,4 +1,4 @@
-# Foraging the Modeling Forest
+# Foraging the Model Forest
 
 A Journey through Computational Neuroscience- and Biology, and Machine Learning.
 
