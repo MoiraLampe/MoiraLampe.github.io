@@ -3,10 +3,11 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 # logo: <img src="/images/logo.png?raw=true" alt="Your Logo" style="border-radius: 50%; width; 100px; height 100px;">
 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Computational Neuroscientist & Machine Learning Engineer
+  Computational Neuroscientist 
+  <br>& 
+  <br>Machine Learning Engineer
   <br><br>
-  About me
-  <br><br>
+ 
   
 
   <a href="www.linkedin.com/in/moira-lampe-303828282"></a> 
