@@ -1,3 +1,9 @@
+# Foraging through Modeling Adventures 
+
+A Journey through Computational Neuroscience, Biology, and Machine Learning
+
+
+
 ## Portfolio
 
 ---
