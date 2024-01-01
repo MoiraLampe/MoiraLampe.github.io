@@ -2,7 +2,10 @@
 
 A Journey through Computational Neuroscience- and Biology, and Machine Learning.
 
-I’m a Computational Neuroscientist with experience in Machine Learning and Data Science. I am fascinated by the complexities of the human mind and how it shapes our decision-making. Simultaneaously I am fascinated by how data shapes everyday decision-making in various parts of industry, including medical decisions, sustainability, etc. All of these have one thing in common: finding the right tool, model, or method to make the right types of decisions. For this we need to gather information, try out and learn by trial and error, which incorporates exploring and exploiting. This is similar to practices in nature, known as foraging. (reinforcement learning)  
+I’m a Computational Neuroscientist with experience in Machine Learning and Data Science. 
+
+
+I am fascinated by the complexities of the human mind and how it shapes our decision-making. Simultaneaously I am fascinated by how data shapes everyday decision-making in various parts of industry, including medical decisions, sustainability, etc. All of these have one thing in common: finding the right tool, model, or method to make the right types of decisions. For this we need to gather information, try out and learn by trial and error, which incorporates exploring and exploiting. This is similar to practices in nature, known as foraging. (reinforcement learning)  
 
 So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences. 
 
