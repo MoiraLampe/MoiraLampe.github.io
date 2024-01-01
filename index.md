@@ -9,6 +9,9 @@ I am fascinated by the complexities of the human mind and how it shapes our deci
 
 So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences. 
 
+<!-- add link to my coursera website -->
+
+
 
 
 
