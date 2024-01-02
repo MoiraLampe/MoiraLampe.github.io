@@ -1,6 +1,6 @@
 # Foraging the Model Forest
 
-A Journey through Computational Neuroscience- and Biology, and Machine Learning.
+## A Journey through Computational Neuroscience- and Biology, and Machine Learning.
 
 I’m a Computational Neuroscientist with experience in Machine Learning and Data Science. 
 
