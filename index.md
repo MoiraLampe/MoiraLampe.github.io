@@ -22,15 +22,15 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 ### Medical AI
 
 [Medical Diagnosis](/sample_page)
-<img src="images/comingsoon.jpeg?raw=true"/>
+<!--img src="images/comingsoon.jpeg?raw=true"/ -->
 
 ---
 [Medical Prognosis](/pdf/sample_presentation.pdf)
-<img src="images/comingsoon.jpeg?raw=true"/>
+<!-- img src="images/comingsoon.jpeg?raw=true"/-->
 
 ---
 [Medical Treatment](http://example.com/)
-<img src="images/comingsoon.jpeg?raw=true"/>
+<!-- img src="images/comingsoon.jpeg?raw=true"/ -->
 
 ---
 
