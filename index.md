@@ -48,6 +48,9 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 [Master Thesis: Optimal Searching Strategies using Reinforcement Learning Methods](/pdf/master_thesis.pdf)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
+[Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva](http://example.com/)
+<!--img src="images/comingsoon.jpeg?raw=true"/-->
+
 
 [Visual Search Task](http://example.com/)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
