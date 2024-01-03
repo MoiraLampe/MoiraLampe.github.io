@@ -68,6 +68,8 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 
 ### Computational Biology
 
-[Mathematical Modeling of Filamentous Fungi](http://www.dyco.fr/index.php/DREAMS)
+[Mathematical Modeling of Filamentous Fungi](/fungi.md)
+
+
 
 ---
