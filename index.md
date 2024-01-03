@@ -42,19 +42,25 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 
 ### Computational Neuroscience
 
-[Decision-Theoretic Modeling of Binocular Rivalry](http://example.com/)
+[Decision-Theoretic Modeling of Binocular Rivalry](/bin_riv.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Master Thesis: Optimal Searching Strategies using Reinforcement Learning Methods](/pdf/master_thesis.pdf)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-[Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](http://example.com/)
+[Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](/chaos.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-[Visual Search Task](http://example.com/)
+[Neuroeconomic Methods - fMRI study analysis](/neuroeconomic_methods.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-[Stroop Task](http://example.com/)
+[Experimental Economics Project](/exp_econ_project.md)
+<!--img src="images/comingsoon.jpeg?raw=true"/-->
+
+[Visual Search Task](visualsearch.md)
+<!--img src="images/comingsoon.jpeg?raw=true"/-->
+
+[Stroop Task](strooptask.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 <!-- add stochastics projects, comp modeling, deep learning, exp economics projects -->
