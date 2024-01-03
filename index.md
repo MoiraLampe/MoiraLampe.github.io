@@ -12,7 +12,7 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 <!-- add link to my coursera website -->
 
 
-[Favorite reads](/sample_page)
+[Favorite reads](/favreads.md)
 
 
 ## Portfolio
