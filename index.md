@@ -51,6 +51,8 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](/chaos.md)
+
+[Reproducing Ion Concentration Dynamics as a Mechanisms for Neuronal Bursting by Barreto and Cressman (2011)](/ioncon.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Neuroeconomic Methods - fMRI study analysis](/neuroeconomic_methods.md)
