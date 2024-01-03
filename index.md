@@ -32,6 +32,8 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 [Medical Treatment](/sample_page)
 <!-- img src="images/comingsoon.jpeg?raw=true"/ -->
 
+[Genomics](/sample_page)
+
 ---
 
 ### Renewable Energy Project
