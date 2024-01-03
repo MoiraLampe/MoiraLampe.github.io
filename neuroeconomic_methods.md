@@ -1,3 +1,6 @@
+
+<img src="images/uva.jpg?raw=true"/>
+
 ## Are you feeling confident or overconfident? 
 
 ### An fMRI approach on how confidence influences decision making.
@@ -31,3 +34,5 @@ if (isAwesome){
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### References
