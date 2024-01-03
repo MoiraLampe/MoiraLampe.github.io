@@ -8,7 +8,7 @@
 
 [DREAMS Project](http://www.dyco.fr/index.php/DREAMS).
 
-<img src="images/growth.gif?raw=true"/>
 
+<img src="images/growth.gif" alt="Animated GIF">
 
 ### References
