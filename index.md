@@ -24,11 +24,11 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 [Medical Diagnosis](/sample_page)
 <!--img src="images/comingsoon.jpeg?raw=true"/ -->
 
----
+
 [Medical Prognosis](/sample_page)
 <!-- img src="images/comingsoon.jpeg?raw=true"/-->
 
----
+
 [Medical Treatment](/sample_page)
 <!-- img src="images/comingsoon.jpeg?raw=true"/ -->
 
