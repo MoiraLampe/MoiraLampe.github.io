@@ -45,7 +45,7 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 [Decision-Theoretic Modeling of Binocular Rivalry](/bin_riv.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-[Master Thesis: Optimal Searching Strategies using Reinforcement Learning Methods](/pdf/master_thesis.pdf)
+[Optimal Searching Strategies using Reinforcement Learning Methods](/pdf/master_thesis.pdf)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](/chaos.md)
