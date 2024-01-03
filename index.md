@@ -51,7 +51,6 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 [Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](http://example.com/)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-
 [Visual Search Task](http://example.com/)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
