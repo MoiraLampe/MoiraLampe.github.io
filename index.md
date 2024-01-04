@@ -52,7 +52,7 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 ### Computational Biology
 
-[Mathematical Modeling of Filamentous Fungi](/fungi.md)
+[Mathematical Modeling of Filamentous Fungi](/md_files/fungi.md)
 
 ---
 
