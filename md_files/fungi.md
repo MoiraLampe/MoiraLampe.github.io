@@ -15,20 +15,12 @@ Fungi live among us in a variety of as many as 5 million species. They live insi
 
 Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/membres/florence/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
 
-
-The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
-
-
-
-
-
 ### The Mycelium, a growing Network
 
 <img src="../images/growth.gif" alt="Animated GIF">
 Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
-
-<!--img src="../images/present.gif" alt="Animated GIF"-->
+The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
 
 ### A toy model: Podospora Anserina
 
