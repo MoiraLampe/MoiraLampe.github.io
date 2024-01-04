@@ -17,7 +17,7 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 <!-- add link to my coursera website -->
 
 
-[Favorite reads](/favreads.md)
+[Favorite reads](../favreads.md)
 
 <!--[Music]() what I do while my models are training-->
 
