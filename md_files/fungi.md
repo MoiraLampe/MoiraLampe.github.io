@@ -1,4 +1,4 @@
-<img src="images/uca.jpg?raw=true"/>
+<img src="../images/uca.jpg?raw=true"/>
 
 
 
