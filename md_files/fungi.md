@@ -4,9 +4,21 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
+**Project description:** This is a project that I worked on for about a year from March 2022 until February 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo. This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. 
+
+### What is Filamentous Fungi?
+
+Fungi live among us in a variety of as many as 5 million species. They live inside and outside of human bodies and animals, in the soil, air, waters, and our food. Although many people think of fungi as the growing mushroom visible to us in nature, they also thrive in the form of expansive interconnected networks, the mycelium. Where the elongated cell at the edge of the network, is referred to as hypha. What is super cool is that they are built of efficient communication networks and help plants and trees to form symbiotic relationships to maintain a healthy ecosystem. Another cool fact is that Fungi actually have similar biological structures to higher organisms and as a network has proven to work similarly to brains’ neural pathways. 1 kg of soil actually contains about 200 km or more of only mycelium, forming more connections than human brains.
+
+<img src="../images/fungil.png?raw=true"/>
 
 
-[DREAMS Project](http://www.dyco.fr/index.php/DREAMS).
+Having said that, here you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the lab in Paris (LIED) which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
+
+
+The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
+
+
 
 [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/membres/florence/)
 
@@ -18,7 +30,7 @@ Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
 <!--img src="../images/present.gif" alt="Animated GIF"-->
 
-
+### A toy model: Podospora Anserina
 
 ### References
 
