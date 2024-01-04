@@ -21,3 +21,5 @@ Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
 
 ### References
+
+Balmant, W., Sugai-Gu ́erios, M. H., Coradin, J. H., Krieger, N., Furigo Junior, A., and Mitchell, D. A. (2015). A model for growth of a single fungal hy- pha based on well-mixed tanks in series: simulation of nutrient and vesicle transport in aerial reproductive hyphae. PLoS One, 10(3):e0120307.
