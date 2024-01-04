@@ -13,7 +13,7 @@ Fungi live among us in a variety of as many as 5 million species. They live insi
 <img src="../images/fungil.png?raw=true"/>
 
 
-Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/membres/florence/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
+Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
 
 ### The Mycelium, a growing Network
 
