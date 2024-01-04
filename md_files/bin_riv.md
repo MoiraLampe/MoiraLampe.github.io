@@ -20,4 +20,8 @@ In the vast landscape of artificial intelligence, one domain stands out for its 
 
 ### Results
 
+
+<img src="../images/group.png?raw=true"/>
+
+
 ### References
