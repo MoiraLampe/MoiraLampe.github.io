@@ -4,7 +4,7 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** This is a project that I worked on for about a year from March 2022 until February 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo. This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. 
+**Project description:** This is my own project that I worked on for about a year from March 2022 until February 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo in the form of an internship at the Jean Alexandre Dieudonne Mathematics Laboratory in Nice (France). This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. The goal of the project was to look into the biological properties of the filamentous fungus Podospora Anserina, understand its growth factors and create a mathematical model in order to reproduce the physiological growth of this mycelium. 
 
 ### What is Filamentous Fungi?
 
@@ -13,14 +13,14 @@ Fungi live among us in a variety of as many as 5 million species. They live insi
 <img src="../images/fungil.png?raw=true"/>
 
 
-Having said that, here you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the lab in Paris (LIED) which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
+Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/membres/florence/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
 
 
 The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
 
 
 
-[Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/membres/florence/)
+
 
 ### The Mycelium, a growing Network
 
