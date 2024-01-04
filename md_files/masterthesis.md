@@ -1,5 +1,5 @@
 
-<img src="images/uva.jpg?raw=true"/>
+<img src="../images/uva.jpg?raw=true"/>
 
 ## Optimal Stopping/Searching Strategies 
 ### An Experimental Approach to identifying Personality Traits in Searching Behavior
@@ -12,7 +12,7 @@
 
 ### Methods: Creating my own web application 
 
-[The experiment](/pdf/master_thesis.pdf).
+[The experiment](../pdf/master_thesis.pdf).
 
 ### Simulations
 

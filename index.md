@@ -62,6 +62,8 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Optimal Searching Strategies using Reinforcement Learning Methods](/md_files/masterthesis.md)
+
+[Neuroeconomic Methods - fMRI study analysis](/md_files/neuroeconomic_methods.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 [Reproducing Chaos in the Hodgkin-Huxley Model by Guckenheimer and Oliva (2002)](/md_files/chaos.md)
@@ -69,8 +71,7 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 [Reproducing Ion Concentration Dynamics as a Mechanisms for Neuronal Bursting by Barreto and Cressman (2011)](/md_files/ioncon.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
-[Neuroeconomic Methods - fMRI study analysis](/md_files/neuroeconomic_methods.md)
-<!--img src="images/comingsoon.jpeg?raw=true"/-->
+
 
 [Experimental Economics Project](/md_files/exp_econ_project.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->

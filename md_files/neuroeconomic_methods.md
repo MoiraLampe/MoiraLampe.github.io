@@ -1,5 +1,5 @@
 
-<img src="images/uva.jpg?raw=true"/>
+<img src="../images/uva.jpg?raw=true"/>
 
 ## Are you feeling confident or overconfident? 
 

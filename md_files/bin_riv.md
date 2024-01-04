@@ -14,7 +14,7 @@ In the vast landscape of artificial intelligence, one domain stands out for its 
 
 ### Model
 
-<img src="images/states.png?raw=true"/>
+<img src="../images/states.png?raw=true"/>
 
 ### Methods
 
