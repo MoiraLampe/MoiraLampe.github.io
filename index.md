@@ -5,9 +5,12 @@
 I’m a Computational Neuroscientist with experience in Machine Learning and Data Science.  
 
 I am fascinated by the complexities of the human mind and how it shapes our decision-making. Simultaneaously I am fascinated by how data shapes everyday decision-making in various parts of industry, including medical decisions, sustainability, etc. All of these have one thing in common: 
-the idea of exploring or searching through a diverse and complex landscape of models. As the word "foraging" implies, we need to purposefully explore to find valuable insights or optimal solutions within the "model forest". This is a process that helps to learn by trial and error (reinforcement learning).
+the idea of exploring or searching through a diverse and complex landscape of models. As the word "foraging" implies, we need to purposefully explore to find valuable insights or optimal solutions within the "model forest". This process of learning by trial and error is also referred to as reinforcement learning.
 
-So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences.
+This page will lead you through various projects I have done related to computational neuroscience, computational biology and machine learning. 
+
+
+<!--So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences.-->
 
 <!-- add link to my coursera website -->
 
@@ -42,6 +45,12 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 
 ---
 
+### Computational Biology
+
+[Mathematical Modeling of Filamentous Fungi](/fungi.md)
+
+---
+
 ### Computational Neuroscience
 
 [Decision-Theoretic Modeling of Binocular Rivalry](/bin_riv.md)
@@ -68,12 +77,6 @@ So far, my journey has been all about exploring the intersections of Applied Mat
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
 
 <!-- add stochastics projects, comp modeling, deep learning, exp economics projects -->
----
-
-### Computational Biology
-
-[Mathematical Modeling of Filamentous Fungi](/fungi.md)
-
 
 
 ---
