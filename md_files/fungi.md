@@ -4,13 +4,11 @@
 
 **Project description:** From March 2022 to March 2023, I collaborated with [Dr. Claire Guerrier](https://math.univ-cotedazur.fr/~guerrier/) and [Prof. Dr. Yves D’Angelo](http://www.dyco.fr/index.php/User:Yd) during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France) to work on my own project. This was part of a larger initiative called [DREAMS](http://www.dyco.fr/index.php/DREAMS), studying the constrained hyphal growth in the filamentous fungus Podospora anserina. 
 
-The goal of my project was to create a mathematical model to better understand its growth factors. This project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
+The goal of my project was to create a mathematical model to better understand the growth factors of the filamentous fungus called Podospora Anserina. This project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
 
 ### The story behind this project
 
-In December 2021, I was gifted a copy of "Entangled Life" by Merlin Sheldrake, a book that ended up openineng a whole new world in front of me. I was so fascinated by the incredible significance of these organisms that live among us in as many as 5 million species but are yet so invisible. 
-
-What left a lasting impression is that fungi play a remarkable role in our environment. While the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
+In December 2021, I was gifted a copy of "Entangled Life" written by Merlin Sheldrake, a book that ended up openineng a whole new world in front of me. I was so fascinated by the incredible significance of these organisms that live among us in as many as 5 million species but are yet so invisible. Not only do fungi manifest themselves as well-known mushrooms that grow and are visible in nature, but they also thrive in the form of expansive interconnected networks, the mycelium. They are the unseen parts of mushrooms, hidden beneath the forest floor, serving as their ”roots”.
 
 <img src="../images/fungil.png?raw=true"/>
 
@@ -18,6 +16,8 @@ I find it especially intriguing how these organisms build efficient communicatio
 
 <img src="../images/fungibrain.png?raw=true"/>
 
+
+What left a lasting impression on me is that fungi play a remarkable role in our environment. 
 
 Due to their versatile nature, fungi have enormous application potential in industry. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020). Hence, it is clear that fungi are indispensable organisms and enhancing the understanding of their underlying mechanisms may hold the key to understanding crucial processes on Earth (Moore et al., 2020).
 
