@@ -13,8 +13,10 @@ What left a lasting impression is that fungi play a remarkable role in our envir
 
 <img src="../images/fungil.png?raw=true"/>
 
+I find it especially intriguing how these organisms build efficient communication networks and thereby actively contribute to the establishment of symbiotic relationships between plants and trees, fostering the health of ecosystems. As a computational neuroscientist I cannot miss out on mentioning that mycelium has been found to operate analogously to the neural pathways of brains. In fact, a mere kilogram of soil contains approximately 200 kilometers or more of mycelium, forming a network with more connections than the neural pathways of the human brain.
 
-What makes these organisms truly extraordinary is their role as builders of efficient communication networks. Fungi actively contribute to the establishment of symbiotic relationships between plants and trees, fostering the health of ecosystems. Additionally, fungi share biological structures similar to higher organisms. As interconnected networks, their mycelium has been found to operate analogously to the neural pathways of brains. In fact, a mere kilogram of soil contains approximately 200 kilometers or more of mycelium, forming a network with more connections than the neural pathways of the human brain.
+<img src="../images/fungibrain.png?raw=true"/>
+
 
 Due to their versatile nature, fungi have enormous application potential in industry. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020). Hence, it is clear that fungi are indispensable organisms and enhancing the understanding of their underlying mechanisms may hold the key to understanding crucial processes on Earth (Moore et al., 2020).
 
