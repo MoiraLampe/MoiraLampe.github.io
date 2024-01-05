@@ -20,22 +20,16 @@ As a computational neuroscientist I cannot miss out on mentioning that mycelium 
 
 <img src="../images/fungibrain.png?raw=true"/>
 
+What left a lasting impression on me is that fungi play a remarkable role in our environment. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020).
 
-What left a lasting impression on me is that fungi play a remarkable role in our environment. 
-
-Due to their versatile nature, fungi have enormous application potential in industry. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020). Hence, it is clear that fungi are indispensable organisms and enhancing the understanding of their underlying mechanisms may hold the key to understanding crucial processes on Earth (Moore et al., 2020).
-
-
-
-
-Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
+Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/) (LIED) in Paris. 
 
 ### The Mycelium, a growing Network
 
 <img src="../images/growth.gif" alt="Animated GIF">
 Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
-These revelations from "Entangled Life" inspired a project that would explore and celebrate the multifaceted contributions of these fascinating organisms.
+These revelations from "Entangled Life" inspired a project that would explore and celebrate the multifaceted contributions of these fascinating organisms. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
 
 
 <img src="../images/para.png?raw=true"/>
