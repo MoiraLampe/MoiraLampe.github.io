@@ -2,13 +2,13 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** From March 2022 to March 2023, I collaborated with Dr. Claire Guerrier and Prof. Dr. Yves D’Angelo during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice, France. My project, was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, focused on exploring the biological properties of the filamentous fungus Podospora Anserina. My goal was to understand its growth factors and create a mathematical model to replicate its physiological growth. This ongoing project has been taken over by Ph.D. student Nicolas Fricker, ensuring its continued progress.
+**Project description:** From March 2022 to March 2023, I collaborated with Dr. Claire Guerrier and Prof. Dr. Yves D’Angelo during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice, France to work on my own project. This was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, studying the constrained hyphal growth in the filamentous fungus Podospora anserina. My goal was to create a mathematical model to better understand its growth factors. I should note that this project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
 
 ### The story behind this project
 
-In December 2021, I was gifted the book "Entangled Life" by Merlin Sheldrake. As I was reading this, a whole new world opened up in front of me. I was so fascinated by the incredible significance of these organisms. 
+In December 2021, I was gifted a copy of "Entangled Life" by Merlin Sheldrake, a book that ended up openineng a whole new world in front of me. I was so fascinated by the incredible significance of these organisms that live among us in as many as 5 million species but are yet so invisible. 
 
-What left a lasting impression is that fungi play a remarkable role in our environment. They coexist with us in various forms and while the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
+What left a lasting impression is that fungi play a remarkable role in our environment. While the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
 
 <img src="../images/fungil.png?raw=true"/>
 
