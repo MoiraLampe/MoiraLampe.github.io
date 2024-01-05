@@ -40,6 +40,9 @@ A fundamental question that arises is how these microorganisms work and are buil
 
 ### A toy model: Podospora Anserina
 
+<img src="../images/podospora.png?raw=true"/>
+
+
 ### Some definitions
 
 The elongated cell at the edge of the network, is referred to as hypha.
