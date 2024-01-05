@@ -8,11 +8,15 @@ The goal of my project was to create a mathematical model to better understand t
 
 ### The story behind this project
 
-In December 2021, I was gifted a copy of "Entangled Life" written by Merlin Sheldrake, a book that ended up openineng a whole new world in front of me. I was so fascinated by the incredible significance of these organisms that live among us in as many as 5 million species but are yet so invisible. Not only do fungi manifest themselves as well-known mushrooms that grow and are visible in nature, but they also thrive in the form of expansive interconnected networks, the mycelium. They are the unseen parts of mushrooms, hidden beneath the forest floor, serving as their ”roots”.
+In December 2021, I was gifted a copy of "Entangled Life" written by Merlin Sheldrake, a book that ended up openineng a whole new world in front of me. I was so fascinated by the incredible significance of these organisms that live among us in as many as 5 million species but are yet so invisible. 
+
+Not only do fungi manifest themselves as well-known mushrooms that grow and are visible in nature, but they also thrive in the form of expansive interconnected networks, the mycelium. They are the unseen parts of mushrooms, hidden beneath the forest floor, serving as their ”roots”.
 
 <img src="../images/fungil.png?raw=true"/>
 
-I find it especially intriguing how these organisms build efficient communication networks and thereby actively contribute to the establishment of symbiotic relationships between plants and trees, fostering the health of ecosystems. As a computational neuroscientist I cannot miss out on mentioning that mycelium has been found to operate analogously to the neural pathways of brains. In fact, a mere kilogram of soil contains approximately 200 kilometers or more of mycelium, forming a network with more connections than the neural pathways of the human brain.
+I find it especially intriguing how these organisms build efficient communication networks and thereby actively contribute to the establishment of symbiotic relationships between plants and trees, fostering the health of ecosystems. 
+
+As a computational neuroscientist I cannot miss out on mentioning that mycelium has been found to operate analogously to the neural pathways of brains. In fact, a mere kilogram of soil contains approximately 200 kilometers or more of mycelium, forming a network with more connections than the neural pathways of the human brain.
 
 <img src="../images/fungibrain.png?raw=true"/>
 
