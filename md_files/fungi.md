@@ -6,16 +6,19 @@
 
 ### The story behind this project
 
-In December 2021, I was gifted the book "Entangled Life" by Merlin Sheldrake. As I was reading this, a whole new world opened up in front of me. I was so fascinated by the incredible significance of these organisms. What left a lasting impression is that fungi play a remarkable role in our environment. 
+In December 2021, I was gifted the book "Entangled Life" by Merlin Sheldrake. As I was reading this, a whole new world opened up in front of me. I was so fascinated by the incredible significance of these organisms. 
 
-They coexist with us in various forms: They inhabit both the interiors and exteriors of human and animal bodies, permeate the soil, air, waters, and even make their way into our food (Heilmann-Clausen et al., 2015). While the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
+
+What left a lasting impression is that fungi play a remarkable role in our environment. They coexist with us in various forms and while the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
+
+<img src="../images/fungil.png?raw=true"/>
+
 
 What makes these organisms truly extraordinary is their role as builders of efficient communication networks. Fungi actively contribute to the establishment of symbiotic relationships between plants and trees, fostering the health of ecosystems. Additionally, fungi share biological structures similar to higher organisms. As interconnected networks, their mycelium has been found to operate analogously to the neural pathways of brains. In fact, a mere kilogram of soil contains approximately 200 kilometers or more of mycelium, forming a network with more connections than the neural pathways of the human brain.
 
 Due to their versatile nature, fungi have enormous application potential in industry. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020). Hence, it is clear that fungi are indispensable organisms and enhancing the understanding of their underlying mechanisms may hold the key to understanding crucial processes on Earth (Moore et al., 2020).
 
 
-<img src="../images/fungil.png?raw=true"/>
 
 
 Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
