@@ -14,21 +14,29 @@ What makes these organisms truly extraordinary is their role as builders of effi
 
 Due to their versatile nature, fungi have enormous application potential in industry. They have the ability to digest pollutants and decompose food, to absorb carbon dioxide into the soils, nourish and kill plants and making medicine (Ferreira et al., 2020). They are also widely applicable in agriculture with their ability to produce a wide range of bioactive metabolites, which can improve plant growth (Mirmajlessi and Radhakrishnan, 2020). Hence, it is clear that fungi are indispensable organisms and enhancing the understanding of their underlying mechanisms may hold the key to understanding crucial processes on Earth (Moore et al., 2020).
 
-A fundamental question that arises is how these microorganisms work and are build up on a molecular and cellular level, how they expand into growing networks and how the environment they are exposed to influences these factors. Although much research has been done on mycelium growth and branching (Lew, 2011; Jackson and Heath, 1993; Regaladot, 1998; Steinberg et al., 2017; Bartnicki-Garcia, 1990), it remains unclear how the fungus’ interaction with the environment influences these processes.
 
 <img src="../images/fungil.png?raw=true"/>
 
 
 Below you can see a type of filamentous fungi called Podospora Anserina growing into an expansive network. This is an image that was taken at the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/) (LIED) in Paris which we are working with. And the idea of the project I took part in was to understand in various ways how this microorganism is growing into a network and thriving in its environment.
 
-These revelations from "Entangled Life" inspired a project that would explore and celebrate the multifaceted contributions of these fascinating organisms.
-
 ### The Mycelium, a growing Network
 
 <img src="../images/growth.gif" alt="Animated GIF">
 Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
+These revelations from "Entangled Life" inspired a project that would explore and celebrate the multifaceted contributions of these fascinating organisms.
+
 The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
+
+A fundamental question that arises is how these microorganisms work and are build up on a molecular and cellular level, how they expand into growing networks and how the environment they are exposed to influences these factors. Although much research has been done on mycelium growth and branching (Lew, 2011; Jackson and Heath, 1993; Regaladot, 1998; Steinberg et al., 2017; Bartnicki-Garcia, 1990), it remains unclear how the fungus’ interaction with the environment influences these processes.
+
+<img src="../images/para.png?raw=true"/>
+
+
+
+
+
 
 ### A toy model: Podospora Anserina
 
