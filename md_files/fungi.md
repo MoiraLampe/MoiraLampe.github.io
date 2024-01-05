@@ -2,7 +2,7 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** This is my own project that I worked on for a year from March 2022 until March 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo in the form of an internship at the Jean Alexandre Dieudonne Mathematics Laboratory in Nice (France). This project was part of a bigger project called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS). The goal of the project was to look into the biological properties of the filamentous fungus Podospora Anserina, understand its growth factors and create a mathematical model in order to reproduce the physiological growth of this mycelium. This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. 
+**Project description:** This is my own project that I worked on for a year from March 2022 until March 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo in the form of an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France). This project was part of a bigger project called [DREAMS](http://www.dyco.fr/index.php/DREAMS). The goal of the project was to look into the biological properties of the filamentous fungus Podospora Anserina, understand its growth factors and create a mathematical model in order to reproduce the physiological growth of this mycelium. This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. 
 
 ### The story behind this project
 
