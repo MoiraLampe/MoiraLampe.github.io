@@ -2,7 +2,9 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** From March 2022 to March 2023, I collaborated with [Dr. Claire Guerrier](https://math.univ-cotedazur.fr/~guerrier/) and [Prof. Dr. Yves D’Angelo](http://www.dyco.fr/index.php/User:Yd) during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice, France to work on my own project. This was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, studying the constrained hyphal growth in the filamentous fungus Podospora anserina. My goal was to create a mathematical model to better understand its growth factors. I should note that this project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
+**Project description:** From March 2022 to March 2023, I collaborated with [Dr. Claire Guerrier](https://math.univ-cotedazur.fr/~guerrier/) and [Prof. Dr. Yves D’Angelo](http://www.dyco.fr/index.php/User:Yd) during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France) to work on my own project. This was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, studying the constrained hyphal growth in the filamentous fungus Podospora anserina. 
+
+My goal was to create a mathematical model to better understand its growth factors. This project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
 
 ### The story behind this project
 
