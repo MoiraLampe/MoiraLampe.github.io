@@ -2,12 +2,11 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** This is my own project that I worked on for a year from March 2022 until March 2023 in collaboration with Dr. Claire Guerrier and Prof. Dr. Yves D'Angelo in the form of an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France). This project was part of a bigger project called [DREAMS](http://www.dyco.fr/index.php/DREAMS). The goal of the project was to look into the biological properties of the filamentous fungus Podospora Anserina, understand its growth factors and create a mathematical model in order to reproduce the physiological growth of this mycelium. This is still an ongoing project that was taken over by Ph.D. student Nicolas Fricker. 
+**Project description:** From March 2022 to March 2023, I collaborated with Dr. Claire Guerrier and Prof. Dr. Yves D’Angelo during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice, France. My project, was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, focused on exploring the biological properties of the filamentous fungus Podospora Anserina. My goal was to understand its growth factors and create a mathematical model to replicate its physiological growth. This ongoing project has been taken over by Ph.D. student Nicolas Fricker, ensuring its continued progress.
 
 ### The story behind this project
 
 In December 2021, I was gifted the book "Entangled Life" by Merlin Sheldrake. As I was reading this, a whole new world opened up in front of me. I was so fascinated by the incredible significance of these organisms. 
-
 
 What left a lasting impression is that fungi play a remarkable role in our environment. They coexist with us in various forms and while the iconic image of a mushroom may come to mind, fungi also thrive in less visible but equally crucial networks known as mycelium.
 
@@ -51,6 +50,12 @@ A fundamental question that arises is how these microorganisms work and are buil
 ### Some definitions
 
 The elongated cell at the edge of the network, is referred to as hypha.
+
+
+### Challenges
+
+
+### Preliminary Results
 
 ### References
 
