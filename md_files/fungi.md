@@ -2,9 +2,9 @@
 
 ## Mathematical Modeling of Filamentous Fungi
 
-**Project description:** From March 2022 to March 2023, I collaborated with [Dr. Claire Guerrier](https://math.univ-cotedazur.fr/~guerrier/) and [Prof. Dr. Yves D’Angelo](http://www.dyco.fr/index.php/User:Yd) during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France) to work on my own project. This was part of the larger [DREAMS](http://www.dyco.fr/index.php/DREAMS) initiative, studying the constrained hyphal growth in the filamentous fungus Podospora anserina. 
+**Project description:** From March 2022 to March 2023, I collaborated with [Dr. Claire Guerrier](https://math.univ-cotedazur.fr/~guerrier/) and [Prof. Dr. Yves D’Angelo](http://www.dyco.fr/index.php/User:Yd) during an internship at the [Jean Alexandre Dieudonne Mathematics Laboratory](https://math.univ-cotedazur.fr/) in Nice (France) to work on my own project. This was part of a larger initiative called [DREAMS](http://www.dyco.fr/index.php/DREAMS), studying the constrained hyphal growth in the filamentous fungus Podospora anserina. 
 
-My goal was to create a mathematical model to better understand its growth factors. This project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
+The goal of my project was to create a mathematical model to better understand its growth factors. This project was conducted in collaboration with the [Laboratoire interdisciplinaire des Energies de Demain](https://b2c.sdv.univ-paris-diderot.fr/), which played a crucial role in executing experiments and collecting experimental data to validate the models developed. This ongoing project has been taken over by Ph.D. student Nicolas Fricker in March 2023, ensuring its continued progress.
 
 ### The story behind this project
 
@@ -33,9 +33,6 @@ Film of P. Anserina growth over 1 week, Clara Ledoux LIED
 
 These revelations from "Entangled Life" inspired a project that would explore and celebrate the multifaceted contributions of these fascinating organisms.
 
-The project is called [DREAMS Project](http://www.dyco.fr/index.php/DREAMS) and is divided into a biological part, a physics part, and a mathematical part, which is the one I was working on. The main goal is to address the modeling and analysis of the expanding interconnected hyphal network (the vegetative filaments produced to form the mycelium) of the fungus Podospora Anserina. 
-
-A fundamental question that arises is how these microorganisms work and are build up on a molecular and cellular level, how they expand into growing networks and how the environment they are exposed to influences these factors. Although much research has been done on mycelium growth and branching (Lew, 2011; Jackson and Heath, 1993; Regaladot, 1998; Steinberg et al., 2017; Bartnicki-Garcia, 1990), it remains unclear how the fungus’ interaction with the environment influences these processes.
 
 <img src="../images/para.png?raw=true"/>
 
