@@ -13,11 +13,6 @@ I am fascinated by the complexities of the human mind and how it shapes our deci
 the idea of exploring or searching through a diverse and complex landscape of models. As the word "foraging" implies, we need to purposefully explore to find valuable insights or optimal solutions within the "model forest". This process of learning by trial and error is also referred to as reinforcement learning.
 -->
 
-
-
-
-
-
 <!--So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences.-->
 
 <!-- add link to my coursera website -->
