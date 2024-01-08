@@ -45,11 +45,11 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 ---
 
-### Renewable Energy Project
+<!--### Renewable Energy Project
 
 [Project 1 Title](http://example.com/)
 
----
+--- -->
 
 ### Computational Biology
 
