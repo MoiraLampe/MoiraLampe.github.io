@@ -7,3 +7,4 @@ Todo List:
 - change picture 
 - change my title 
 - add neuroscience projects
+- add shorter project descriptions and some results or images also in main page
