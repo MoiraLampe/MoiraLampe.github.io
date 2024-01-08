@@ -1,5 +1,8 @@
 # Foraging the Model Forest
 
+<img src="../images/21.png?raw=true">
+
+
 ## A Journey through Computational Neuroscience/Biology, and Machine Learning.
 
 
