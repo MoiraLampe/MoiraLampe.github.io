@@ -50,6 +50,8 @@ The elongated cell at the edge of the network, is referred to as hypha.
 
 ### My contributions
 
+<img src="../images/contri.png?raw=true"/>
+
 
 
 ### Challenges
