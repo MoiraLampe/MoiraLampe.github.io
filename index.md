@@ -15,10 +15,12 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 <!--So far, my journey has been all about exploring the intersections of Applied Mathematics and AI tools in Neuro- and Cognitive Sciences.-->
 
-<!-- add link to my coursera website -->
+
 
 
 [Favorite reads](/md_files/favreads.md)
+
+[Coursera](https://www.coursera.org/user/6cf7c745d9072553321c3558e23d48bf)
 
 <!--[Music]() what I do while my models are training-->
 
@@ -31,18 +33,18 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 ### Medical AI
 
 [Medical Diagnosis](/sample_page)
-<!--img src="images/comingsoon.jpeg?raw=true"/ -->
 
 
-[Medical Prognosis](/sample_page)
-<!-- img src="images/comingsoon.jpeg?raw=true"/-->
+
+<!-- [Medical Prognosis](/sample_page)
+
 
 
 [Medical Treatment](/sample_page)
-<!-- img src="images/comingsoon.jpeg?raw=true"/ -->
+
 
 [Genomics](/sample_page)
-
+<!-- img src="images/comingsoon.jpeg?raw=true"/ -->
 ---
 
 <!--### Renewable Energy Project
@@ -71,8 +73,6 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 [Reproducing Ion Concentration Dynamics as a Mechanisms for Neuronal Bursting by Barreto and Cressman (2011)](/md_files/ioncon.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
-
-
 
 [Experimental Economics Project](/md_files/exp_econ_project.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
