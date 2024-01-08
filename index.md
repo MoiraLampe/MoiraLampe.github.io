@@ -2,6 +2,9 @@
 
 <img src="images/21.jpeg?raw=true">
 
+<img src="images/21.jpeg?raw=true" style="max-width: 50%; height: auto;">
+
+
 
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
 
