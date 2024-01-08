@@ -1,8 +1,7 @@
 # Foraging the Model Forest
 
-<img src="images/21.jpeg?raw=true">
 
-<img src="images/21.jpeg?raw=true" style="max-width: 50%; height: auto;">
+<img src="images/21.jpeg?raw=true" style="max-width: 60%; height: auto;">
 
 
 
