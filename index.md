@@ -1,9 +1,9 @@
 # Foraging the Model Forest
 
-<img src="images/21.png?raw=true">
+<img src="images/21.jpeg?raw=true">
 
 
-## A Journey through Computational Neuroscience/Biology, and Machine Learning.
+## A Journey through Computational Neuroscience-Biology, and Machine Learning.
 
 
 <!-- I’m a Computational Neuroscientist with experience in Machine Learning and Data Science. 
