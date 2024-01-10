@@ -8,7 +8,11 @@
 </div>
 
 
-
+  <table class=buttons>
+      <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
+      <button class='nes-btn' name="choice" value=0>EXPLORE</button>
+      <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
+  </table>
 
 
 <!-- I’m a Computational Neuroscientist with experience in Machine Learning and Data Science. 
