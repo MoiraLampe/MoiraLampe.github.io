@@ -3,6 +3,13 @@ title: Moira Lampe
 logo: "/images/pic-modified.png?raw=true" # your photo (or logo) here
 # logo: <img src="/images/logo.png?raw=true" alt="Your Logo" style="border-radius: 50%; width; 100px; height 100px;">
 
+  <table class=buttons>
+      <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
+      <button class='nes-btn' name="choice" value=0>EXPLORE</button>
+      <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
+  </table>
+
+
 description: > 
   <div style="text-align: center;">
     Computational Neuroscientist 
