@@ -10,6 +10,11 @@ description: >
     <br>Machine Learning Engineer
   </div>
 
+ <!-- Clickable bar -->
+  <div id="clickableBar">
+    <p>Click me!</p>
+  </div>
+
  
   
 
