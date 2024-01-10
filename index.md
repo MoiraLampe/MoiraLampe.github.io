@@ -4,6 +4,13 @@
     <p>Click me!</p>
   </div>
 
+  <table class=buttons>
+    <tr>
+      <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
+      <button class='nes-btn' name="choice" value=0>EXPLORE</button>
+      <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
+  </table>
+
 
 
 # Foraging the Model Forest
