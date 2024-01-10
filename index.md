@@ -1,6 +1,6 @@
 
 
-<!-- [Projects](test.html{: .nes-btn}) [CV](test.html{: .nes-btn}) -->
+[test](test.html{: .nes-btn})
 
 
 
