@@ -1,3 +1,24 @@
+
+
+[FORAGE](javascript:void(0)) | [EXPLORE](javascript:void(0)) | [COLONIZE](javascript:void(0))
+
+<!-- <style>
+/* Add some styling to make links look like buttons */
+    a.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #3498db; /* Button background color */
+    color: #fff; /* Button text color */
+    text-decoration: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    }
+
+a.button:hover {
+  background-color: #2980b9; /* Button background color on hover */
+}
+</style> -->
+
 # Foraging the Model Forest
 
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
