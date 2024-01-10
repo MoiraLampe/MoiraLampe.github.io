@@ -1,12 +1,10 @@
 
-
-[test](test.html)
    <tr>
      <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
      <button class='nes-btn' name="choice" value=0>EXPLORE</button>
      <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
  
-test
+test1
 
 # Foraging the Model Forest
 
