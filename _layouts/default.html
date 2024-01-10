@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+   
 
 
 <head>
@@ -21,11 +22,27 @@
    <!--[if lt IE 9]>
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
+
+   <style>
+      body {
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+      }
+  
+      .top-bar {
+        background-color: #3498db; /* Set the background color */
+        height: 50px; /* Set the height of the top bar */
+        width: 100%;
+      }
+  
+      /* Add more styles for the top bar if needed */
+  
+    </style>
 </head>
 
 <body>
    <div class="top-bar"></div>
-
+   
    <table class=buttons>
       <tr>
         <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
