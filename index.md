@@ -1,6 +1,6 @@
 
 
-[Projects](javascript:void(0)){: .nes-btn} [CV](javascript:void(0){: .nes-btn})
+[Projects](test.html{: .nes-btn}) [CV](test.html{: .nes-btn})
 
 
 
