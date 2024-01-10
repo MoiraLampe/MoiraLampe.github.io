@@ -4,6 +4,10 @@
 
 test
 
+<a href="javascript:void(0)" class="nes-btn">Projects</a> <a href="javascript:void(0)" class="nes-btn">CV</a>
+
+test 2
+
 # Foraging the Model Forest
 
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
