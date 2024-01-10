@@ -2,7 +2,7 @@
 
 [FORAGE](javascript:void(0)) | [EXPLORE](javascript:void(0)) | [COLONIZE](javascript:void(0))
 
-<!-- <style>
+<style>
 /* Add some styling to make links look like buttons */
     a.button {
     display: inline-block;
@@ -17,7 +17,7 @@
 a.button:hover {
   background-color: #2980b9; /* Button background color on hover */
 }
-</style> -->
+</style>
 
 # Foraging the Model Forest
 
