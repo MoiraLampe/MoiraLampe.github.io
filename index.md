@@ -64,9 +64,15 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 [Mathematical Modeling of Filamentous Fungi](/md_files/fungi.md)
 
+<img src="images/fungipro.jpeg?raw=true" style="max-width: 80%; height: auto;">
+
+
 ---
 
 ### Computational Neuroscience
+
+<img src="images/comp neuro.jpeg?raw=true" style="max-width: 80%; height: auto;">
+
 
 [Decision-Theoretic Modeling of Binocular Rivalry](/md_files/bin_riv.md)
 <!--img src="images/comingsoon.jpeg?raw=true"/-->
