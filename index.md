@@ -3,8 +3,9 @@
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
 
 
-
+<div style="text-align: center;">
 <img src="images/21.jpeg?raw=true" style="max-width: 90%; height: auto;">
+</div>
 
 
 
