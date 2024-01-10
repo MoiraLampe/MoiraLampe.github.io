@@ -1,11 +1,4 @@
 
-   <tr>
-     <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
-     <button class='nes-btn' name="choice" value=0>EXPLORE</button>
-     <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
- 
-test1
-
 # Foraging the Model Forest
 
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
