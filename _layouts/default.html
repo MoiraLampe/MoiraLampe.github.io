@@ -1,5 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
+
+<body>
+   <table class=buttons>
+      <tr>
+        <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
+        <button class='nes-btn' name="choice" value=0>EXPLORE</button>
+        <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
+    </table>
+   </body>
 <head>
    {% if site.google_analytics %}
    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -20,14 +29,7 @@
    <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
    <![endif]-->
 </head>
-<body>
-<table class=buttons>
-   <tr>
-     <p><button class='nes-btn' name="choice" value=1>FORAGE</button>
-     <button class='nes-btn' name="choice" value=0>EXPLORE</button>
-     <button class='nes-btn' name="choice" value=2 style='width:230px'>COLONIZE</button></p>
- </table>
-</body>
+
 <body>
    <div class="wrapper">
       <header>
