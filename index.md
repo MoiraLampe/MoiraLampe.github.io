@@ -1,6 +1,6 @@
 
 
-[FORAGE](javascript:void(0)) | [EXPLORE](javascript:void(0)) | [COLONIZE](javascript:void(0))
+[Projects](javascript:void(0)) | [CV](javascript:void(0))
 
 <style>
 /* Add some styling to make links look like buttons */
