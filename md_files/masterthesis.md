@@ -14,6 +14,8 @@
 
 [The experiment](../pdf/master_thesis.pdf).
 
+[The code](https://github.com/MoiraLampe/reinforcement-learning-foraging-application)
+
 ### Simulations
 
 ### Selection of appropriate statistical tools and techniques
