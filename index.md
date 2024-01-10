@@ -1,12 +1,8 @@
 
 
-[Projects](test.html{: .nes-btn}) [CV](test.html{: .nes-btn})
+<!-- [Projects](test.html{: .nes-btn}) [CV](test.html{: .nes-btn}) -->
 
-test
 
-<a href="javascript:void(0)" class="nes-btn">Projects</a> <a href="javascript:void(0)" class="nes-btn">CV</a>
-
-test 2
 
 # Foraging the Model Forest
 
@@ -40,7 +36,7 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 [Coursera](https://www.coursera.org/user/6cf7c745d9072553321c3558e23d48bf)
 
-<!--[Music]() what I do while my models are training, what I look to do in my freetime! extra curriculum activities-->
+<!--[Music]() what I do while my models are training, what I look to do in my freetime! hiking, outdoor, bouldering, climbing outdoor, reading, handcrafting things, gardening, music, extra curriculum activities-->
 
 
 
