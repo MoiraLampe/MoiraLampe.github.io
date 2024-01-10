@@ -4,7 +4,7 @@
 
 
 
-<img src="images/21.jpeg?raw=true" style="max-width: 70%; height: auto;">
+<img src="images/21.jpeg?raw=true" style="max-width: 80%; height: auto;">
 
 
 
