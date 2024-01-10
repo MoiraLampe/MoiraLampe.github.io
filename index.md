@@ -4,7 +4,7 @@
 
 
 
-<img src="images/21.jpeg?raw=true" style="max-width: 80%; height: auto;">
+<img src="images/21.jpeg?raw=true" style="max-width: 90%; height: auto;">
 
 
 
@@ -64,14 +64,14 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 [Mathematical Modeling of Filamentous Fungi](/md_files/fungi.md)
 
-<img src="images/fungipro.jpeg?raw=true" style="max-width: 80%; height: auto;">
+<img src="images/fungipro.jpeg?raw=true" style="max-width: 90%; height: auto;">
 
 
 ---
 
 ### Computational Neuroscience
 
-<img src="images/comp neuro.jpeg?raw=true" style="max-width: 80%; height: auto;">
+<img src="images/comp neuro.jpeg?raw=true" style="max-width: 90%; height: auto;">
 
 
 [Decision-Theoretic Modeling of Binocular Rivalry](/md_files/bin_riv.md)
