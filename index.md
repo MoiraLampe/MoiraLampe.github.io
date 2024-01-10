@@ -1,3 +1,11 @@
+
+<!-- Clickable bar -->
+  <div id="clickableBar">
+    <p>Click me!</p>
+  </div>
+
+
+
 # Foraging the Model Forest
 
 ## A Journey through Computational Neuroscience-Biology, and Machine Learning.
