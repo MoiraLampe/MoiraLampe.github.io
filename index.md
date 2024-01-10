@@ -27,11 +27,13 @@ the idea of exploring or searching through a diverse and complex landscape of mo
 
 
 
-[Favorite reads](/md_files/favreads.md)
 
-[Coursera](https://www.coursera.org/user/6cf7c745d9072553321c3558e23d48bf)
+
+<!-- [Coursera](https://www.coursera.org/user/6cf7c745d9072553321c3558e23d48bf) -->
 
 <!--[Music]() what I do while my models are training, what I look to do in my freetime! hiking, outdoor, bouldering, climbing outdoor, reading, handcrafting things, gardening, music, extra curriculum activities-->
+
+[Favorite reads](/md_files/favreads.md)
 
 
 
