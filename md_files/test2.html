@@ -54,6 +54,26 @@
    
    <style>
 
+    body {
+        margin: 0; /* Remove default margin */
+        padding: 0; /* Remove default padding */
+      }
+  
+      .top-bar {
+        background-color: #3498db; /* Set the background color */
+        height: 45px; /* Set the height of the top bar */
+        width: 100%;
+        display: flex;
+        justify-content: flex-end; /* Align buttons to the right */
+        align-items: center; /* Center buttons vertically */
+         /* Add padding to separate buttons from the right edge */ 
+      }
+  
+      
+        
+    
+      
+
       .panel-body {
          background-color: #f6f7fb;
       }
@@ -79,6 +99,12 @@
 </head>
 
 <body>
+
+    <div class="top-bar">
+        <!-- <button href="https://example.com" class='nes-btn' >PROJECTS</button> -->
+        <button class='nes-btn' onclick="window.location.href='../md_files/test2.html'" >PROJECTS</button>
+        <!-- <button class='nes-btn' onclick="window.location.href='../md_files/test2.html'" >CV</button> -->
+     </div>
 
    <!-- navbar include -->
    <div w3-include-html="navbar.html"></div>
