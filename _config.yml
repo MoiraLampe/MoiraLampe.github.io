@@ -1,4 +1,7 @@
-title: Moira Lampe   
+title: > 
+    <div style="text-align: center;">
+    Moira Lampe 
+    </div>  
 # your name (or website title) here
 logo: "/images/pic-modified.png?raw=true" # your photo (or logo) here
 # logo: <img src="/images/logo.png?raw=true" alt="Your Logo" style="border-radius: 50%; width; 100px; height 100px;">
